@@ -1,6 +1,5 @@
 from tkinter import *
 from random import randint
-import time
 
 width=9
 height=9
